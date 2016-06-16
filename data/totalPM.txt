@@ -1,0 +1,30 @@
+Stephen Curry,573.0,78
+Blake Griffin,572.0,80
+Chris Paul,528.0,62
+Kevin Durant,509.0,81
+DeAndre Jordan,492.0,82
+David Lee,467.0,69
+LeBron James,410.0,77
+James Harden,409.0,73
+Serge Ibaka,406.0,81
+Paul George,371.0, 80
+LaMarcus Aldridge,366.0, 69
+Kevin Love,357.0,77
+Dwight Howard,338.0,71
+Dirk Nowitzki,323.0,80
+Tim Duncan,298.0,74
+Marcin Gortat,291.0,81
+Kyle Lowry,271.0,79
+Joakim Noah,232.0,80
+John Wall,197.0,82
+Zach Randolph,170.0,79
+Paul Millsap,125.0,74
+Terrence Jones,123.0,76
+Carmelo Anthony,106.0,77
+Al Jefferson,33.0,73
+DeMarcus Cousins,-20.0,71
+Anthony Davis,-112.0,67
+Kenneth Faried,-157.0,80
+Andre Drummond,-233.0,81
+Derrick Favors,-337.0,73
+Spencer Hawes,-483.0,80
